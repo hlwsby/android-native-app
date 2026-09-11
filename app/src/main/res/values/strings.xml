@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Native App</string>
+    <string name="title_home">Home</string>
+    <string name="title_posts">Posts</string>
+    <string name="title_profile">Profile</string>
+    <string name="home_message">Welcome to Native App</string>
+    <string name="profile_message">Profile screen (static placeholder)</string>
+    <string name="error_loading_posts">Failed to load posts.</string>
 </resources>
