@@ -6,4 +6,9 @@
     <string name="home_message">Welcome to Native App</string>
     <string name="profile_message">Profile screen (static placeholder)</string>
     <string name="error_loading_posts">Failed to load posts.</string>
+    <string name="title_camera">Camera</string>
+    <string name="camera_point_hint">Point the camera at an object</string>
+    <string name="camera_permission_denied">Camera permission is required to identify objects.</string>
+    <string name="camera_unavailable">Camera unavailable on this device.</string>
+    <string name="camera_no_objects">No objects recognized</string>
 </resources>

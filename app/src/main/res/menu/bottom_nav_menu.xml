@@ -9,6 +9,10 @@
         android:icon="@drawable/ic_posts"
         android:title="@string/title_posts" />
     <item
+        android:id="@+id/cameraFragment"
+        android:icon="@drawable/ic_camera"
+        android:title="@string/title_camera" />
+    <item
         android:id="@+id/profileFragment"
         android:icon="@drawable/ic_profile"
         android:title="@string/title_profile" />
